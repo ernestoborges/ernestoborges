@@ -21,6 +21,6 @@
 
 <section>
   <h2>My Github Stats</h2>
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=ernestoborges&theme=dark&show_icons=true" alt="My Github stats" />  
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernestoborges&layout=compact&theme=dark" alt="My Github top languages" />  
+  <img align="top" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ernestoborges&theme=dark&show_icons=true" alt="My Github stats" />  
+  <img align="top" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ernestoborges&layout=compact&theme=dark" alt="My Github top languages" />  
 </section>
